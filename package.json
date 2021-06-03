@@ -1,0 +1,19 @@
+{
+  "name": "geekbrains-streams-samples",
+  "version": "1.0.0",
+  "description": "# Requirements * Any linux * Node.js 12.x and more",
+  "main": "generate-data.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

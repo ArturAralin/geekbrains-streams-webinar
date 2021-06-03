@@ -1,0 +1,6 @@
+node_modules
+data.csv
+uploaded.csv
+small_data.csv
+.DS_Store
+*.csv
